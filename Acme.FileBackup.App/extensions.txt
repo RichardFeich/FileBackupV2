@@ -1,0 +1,10 @@
+﻿.pdf
+.jpeg
+.jpg
+.xls
+.xlsx
+.pst
+.doc
+.docx
+.csv
+.txt

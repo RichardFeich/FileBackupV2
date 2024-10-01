@@ -1,0 +1,16 @@
+﻿C:\Users\acme\.nuget
+C:\Users\acme\.dotnet
+C:\Users\acme\.vscode
+C:\Users\acme\source
+C:\Users\acme\AppData
+C:\Users\acme\Application Data
+C:\Users\acme\Cookies
+C:\Users\acme\Local Settings
+C:\Users\acme\My Documents
+C:\Users\acme\NetHood
+C:\Users\acme\PrintHood
+C:\Users\acme\Recent
+C:\Users\acme\SendTo
+C:\Users\acme\Start Menu
+C:\Users\acme\Templates
+C:\Users\acme\source
